@@ -17,7 +17,7 @@ const HeroSection = () => {
         <p className="mt-5 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto ">
           Prayagraj, formerly known as Allahabad or Ilahabad, is a metropolis in
           the Indian state of Uttar Pradesh. Prayagraj lies close to Triveni
-          Sangam, the "three-river confluence" of the Ganges, Yamuna, and the
+          Sangam, the three-river confluence of the Ganges, Yamuna, and the
           mythical Sarasvati. The city is the judicial capital of Uttar Pradesh
           with the Allahabad High Court being the highest judicial body in the
           state.
