@@ -1,0 +1,96 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "slug": "sangam",
+      "image": "",
+      "name": "Triveni Sangam",
+      "description": "The confluence of three holy rivers - Ganga, Yamuna, and Saraswati. It's a sacred spot for Hindu pilgrims.",
+      "category": "Religious"
+    },
+    {
+      "id": 2,
+      "slug": "fort",
+      "image": "",
+      "name": "Allahabad Fort",
+      "description": "A historic fort built by Emperor Akbar in 1583 AD. It houses several ancient monuments and temples.",
+      "category": "Historical"
+    },
+    {
+      "id": 3,
+      "slug": "shri-bade-hanuman-mandir",
+      "image": "",
+      "name": "Shri Bade Hanuman Ji Mandir",
+      "description": "A famous temple dedicated to Lord Hanuman, known for its large idol of Hanuman and its religious significance.",
+      "category": "Religious"
+    },
+    {
+      "id": 4,
+      "slug": "chandrashekhar-azad-park",
+      "image": "",
+      "name": "Chandrashekhar Azad Park",
+      "description": "Chandra Shekhar Azad Park is a public park in Prayagraj, Uttar Pradesh, India. Built in 1870 to mark Prince Alfred's visit to the city, with an area of 133 acres, it is the biggest park in Prayagraj.",
+      "category": "Park"
+    },
+    {
+      "id": 5,
+      "slug": "allahabad-university",
+      "image": "",
+      "name": "Allahabad University",
+      "description": "One of the oldest universities in India, known for its rich academic heritage and beautiful campus.",
+      "category": "Educational"
+    },
+    {
+      "id": 6,
+      "slug": "anand-bhavan",
+      "image": "",
+      "name": "Anand Bhavan",
+      "description": "The ancestral home of the Nehru-Gandhi family, now converted into a museum showcasing the life of Jawaharlal Nehru and the Indian independence movement.",
+      "category": "Museum"
+    },
+    {
+      "id": 7,
+      "slug": "khusro-bagh",
+      "image": "",
+      "name": "Khusro Bagh",
+      "description": "A Mughal garden housing the tombs of Prince Khusrau, daughter Sultan Begum, and Shah Begum. It's known for its beautiful architecture and serene ambiance.",
+      "category": "Historical"
+    },
+    {
+      "id": 8,
+      "slug": "cathedral",
+      "image": "",
+      "name": "All Saints Cathedral",
+      "description": "A majestic Anglican cathedral built during the British colonial era. It's known for its stunning architecture and serene atmosphere.",
+      "category": "Religious"
+    },
+
+    {
+      "id": 9,
+      "slug": "allahabad-museum",
+      "image": "",
+      "name": "Allahabad Museum",
+      "description": "A museum showcasing a vast collection of artifacts, sculptures, and manuscripts reflecting the rich cultural heritage of Prayagraj.",
+      "category": "Museum"
+    },
+    {
+      "id": 10,
+      "slug": "swaraj-bhawan",
+      "image": "",
+      "name": "Swaraj Bhawan",
+      "description": "A historic building where the first Prime Minister of India, Jawaharlal Nehru, was born. It played a significant role in the Indian freedom struggle.",
+      "category": "Historical"
+    },
+    {
+      "id": 11,
+      "slug": "Planetarium",
+      "image": "",
+      "name": "Jawahar Planetarium",
+      "description": "A space-themed educational center offering fascinating exhibits, interactive sessions, and celestial shows about astronomy and space exploration.",
+      "category": "Museum"
+    }
+  ]
+  
+      
+ 
+}
